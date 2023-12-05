@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 就读于 UESTC。YOLO 工作室成员。
 目前在北京铁厂实习。
 这里分享一些本人的项目，欢迎和本人交流。
+
+![Metrics](https://metrics.lecoq.io/Ruinique?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
 ![](https://image.itbaima.net/images/336/image-20231205185944280.png)
