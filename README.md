@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to visit this page 👋
 
 <!--
 **Ruinique/Ruinique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+你好，我是 Ruinique 。一名后端开发萌新。
+就读于 UESTC。YOLO 工作室成员。
+目前在北京铁厂实习。
+这里分享一些本人的项目，欢迎和本人交流。
+![](https://image.itbaima.net/images/336/image-20231205185944280.png)
