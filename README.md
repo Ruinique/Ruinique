@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 你好，我是 Ruinique 。一名后端开发萌新。
+
 就读于 UESTC。YOLO 工作室成员。
+
 这里分享一些本人的项目，欢迎和本人交流。
+
 🌱 正在学习 CUDA 并行编程相关知识。
