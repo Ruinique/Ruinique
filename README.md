@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 有过一些后端开发的经验，曾在 快手电商 和 阿里本地生活 作为后端开发工程师实习过。
 
-这里分享一些本人的项目，欢迎和本人交流，wechat: ruinique。
+这里分享一些本人的项目，欢迎和本人交流。
 
 🌱 正在学习 CUDA 并行编程相关知识。
