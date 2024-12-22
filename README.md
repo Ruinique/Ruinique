@@ -1,26 +1,11 @@
 # Welcome to visit this page 👋
 
-<!--
-**Ruinique/Ruinique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Ruinique.
 
-Here are some ideas to get you started:
+I am currently a senior undergraduate and have also pursued my master’s degree at UESTC (University of Electronic Science and Technology of China). I am a member of the UESTC YOLO Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have accumulated some experience in backend development and have interned as a Backend Development Engineer at Kuaishou E-commerce and Alibaba Local Life.
 
-你好，我是 Ruinique。
+Here, I would like to share some of my projects and welcome anyone to communicate and exchange ideas with me.
 
-就读于 UESTC。UESTC YOLO 工作室成员。
-
-有过一些后端开发的经验，曾在 快手电商 和 阿里本地生活 作为后端开发工程师实习过。
-
-这里分享一些本人的项目，欢迎和本人交流。
-
-🌱 正在学习 CUDA 并行编程相关知识。
+🌱 I am currently learning about CUDA parallel programming.
