@@ -9,3 +9,5 @@ I have accumulated some experience in backend development and have interned as a
 Here, I would like to share some of my projects and welcome anyone to communicate and exchange ideas with me.
 
 🌱 I am currently learning about CUDA parallel programming.
+
+![Ruinique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruinique)
