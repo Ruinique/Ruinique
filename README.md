@@ -1,13 +1,14 @@
-# Welcome to visit this page 👋
+# Hi, I'm Ruiyi Zhan 👋
 
-Hello, I am Ruinique.
+I received my B.S. from **UESTC** and am currently pursuing my M.S. there. My interests lie in **GPU Systems, High-Performance Computing, and AI Infrastructure**.
 
-I am currently a graduate student at UESTC (University of Electronic Science and Technology of China). I am a member of the UESTC YOLO Studio.
+- Currently interning at **Kuaishou Kling AI**, working on multimodal model training infrastructure and GPU kernel optimization.
+- Previously interned at **MetaX** (GPU kernels), **Kuaishou E-commerce**, and **Alibaba Local Services** (backend engineering).
 
-I have accumulated some experience in backend development and have interned as a Backend Development Engineer at Kuaishou E-commerce and Alibaba Local Life.
+### Research & Publications
 
-Here, I would like to share some of my projects and welcome anyone to communicate and exchange ideas with me.
+- **PPoPP 2027** (First Author) — [Revisiting Eigenvalue-Only Divide-and-Conquer Tridiagonal Eigensolver](https://arxiv.org/abs/2605.26599)
+- **HPDC 2026** (First Author, Poster) — [Achieving 86% Peak GPU Throughput for Distributed QR Factorization](https://doi.org/10.1145/3806645.3818781)
+- Co-authored research published or accepted at **IEEE TPDS** and **ACM TACO**.
 
-🌱 I am currently learning about CUDA parallel programming.
-
-![Ruinique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruinique)
+[Email](mailto:rui1@std.uestc.edu.cn) · [ORCID](https://orcid.org/0009-0005-4231-3237)
